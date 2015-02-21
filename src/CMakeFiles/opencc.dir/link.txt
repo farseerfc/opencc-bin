@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG    -pthread CMakeFiles/opencc.dir/CommandLine.cpp.o  -o opencc -rdynamic libopencc.so.1.0.0 -Wl,-rpath,/home/farseerfc/opencc-1.0.2/build/rel/src: 
